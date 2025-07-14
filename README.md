@@ -3,10 +3,8 @@
 
 An interactive data visualization dashboard built with **Streamlit**, analyzing supermarket sales trends from a retail dataset using **Python**, **Pandas**, and **Plotly**.
 
-![GitHub repo size](https://img.shields.io/github/repo-size/Mohan30-7/Supermarket-Sales-Analysis)
 ![Python](https://img.shields.io/badge/Python-3.9+-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.32+-brightgreen)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 ---
 
